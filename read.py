@@ -26,4 +26,3 @@ class read:
                         ''')
             print(cur.fetchall())
 
-        
